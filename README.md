@@ -42,7 +42,7 @@ pip install pygame
 
 ```bash
 python main.py
-
+```
 
 ## Jak hrát
 - Klikněte na figuru, kterou chcete vybrat.
