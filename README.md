@@ -18,7 +18,7 @@ Pygame nainstalujete příkazem:
 
 ```bash
 pip install pygame
-
+```
 
 ## Instalace a nastavení
 1. Naklonujte nebo stáhněte tento repozitář do vašeho počítače.
