@@ -87,6 +87,3 @@ Každá figura má různé pravidla pohybu:
 - **En passant**: Implementovat pravidlo en passant pro pěšce.
 - **Vrácení tahu**: Implementovat možnost vrácení posledního tahu.
 - **Časovač hry**: Přidat časovač pro tahy každého hráče.
-
-## Licence
-Tento projekt je licencován pod licencí MIT - podrobnosti naleznete v souboru [LICENSE](LICENSE).
