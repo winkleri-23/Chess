@@ -84,6 +84,5 @@ Každá figura má různé pravidla pohybu:
 ## Funkce k implementaci (volitelné)
 - **Propagace pěšce**: Umožnit pěšcům, aby byli po dosažení poslední řady soupeře povýšeni.
 - **Rošáda**: Přidat pohyby pro rošádu mezi králem a věží.
-- **En passant**: Implementovat pravidlo en passant pro pěšce.
 - **Vrácení tahu**: Implementovat možnost vrácení posledního tahu.
 - **Časovač hry**: Přidat časovač pro tahy každého hráče.
